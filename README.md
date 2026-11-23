@@ -11,6 +11,7 @@ Software engineering student focused on frontend development with **React, JavaS
 | Project | Experience | Links |
 | :--- | :--- | :--- |
 | **Souqna / سوقنا** | Arabic RTL marketplace demo with product details, comparison, favorites and a saved cart. | [Try the site](https://mohamed-hegazy1.github.io/souqna/) · [Code](https://github.com/mohamed-hegazy1/souqna) |
+| **Pulse Analytics** | Interactive analytics dashboard with filters, charts, sortable data and CSV export. Synthetic data only. | [Try the site](https://mohamed-hegazy1.github.io/pulse/) · [Code](https://github.com/mohamed-hegazy1/pulse) |
 | **Desk Supply** | A calm, responsive storefront. Combined filters, sorting and a saved demo bag. | [Try the site](https://mohamed-hegazy1.github.io/desk-supply-demo/) · [Code](https://github.com/mohamed-hegazy1/desk-supply-demo) |
 | **Applyboard** | An application tracker with validated forms, status filters, local persistence and undo. | [Try the site](https://mohamed-hegazy1.github.io/applyboard/) · [Code](https://github.com/mohamed-hegazy1/applyboard) |
 | **Repo Lens** | Explore public GitHub repositories with pagination, filters and cancellable API requests. | [Try the site](https://mohamed-hegazy1.github.io/repo-lens/) · [Code](https://github.com/mohamed-hegazy1/repo-lens) |
